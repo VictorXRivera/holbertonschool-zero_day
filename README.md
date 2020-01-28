@@ -1,1 +1,1 @@
-Zero Day projects
+Holberton's cool and fun Zero Day Projects
