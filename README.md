@@ -1,1 +1,1 @@
-Git Project and tasks + advanced
+Holberton's cool and fun Zero Day Projects
