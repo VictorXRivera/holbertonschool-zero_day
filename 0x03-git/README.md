@@ -1,1 +1,1 @@
-Directory for Git project
+Git project and tasks + advanced
